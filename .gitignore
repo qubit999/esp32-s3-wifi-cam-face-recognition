@@ -4,3 +4,4 @@ build/
 .clangd
 .vscode/
 managed_components/
+.DS_Store
